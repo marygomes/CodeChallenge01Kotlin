@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tests" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-11-20T15:01:45" hostname="VI-LLLR0B2MN9" time="0.032">
+  <properties/>
+  <testcase name="When number 1 is the input return &quot;1 second&quot;()" classname="Tests" time="0.032"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
